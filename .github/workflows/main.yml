@@ -1,0 +1,5 @@
+# 若没有 pnpm
+npm install pnpm -g
+
+# 安装依赖
+pnpm install
